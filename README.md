@@ -4,7 +4,7 @@
 
 <b>ngc-learn-legacy</b> is a Python library for building, simulating, and analyzing biomimetic systems, neurobiological
 agents, and predictive coding models (predictive processing theory) based on the neural generative
-coding (NGC) computational framework. This toolkit was pecificallly built on top of Tensorflow 2 and is distributed under the 3-Clause BSD license.
+coding (NGC) computational framework. This toolkit was specificallly built on top of Tensorflow 2 and is distributed under the 3-Clause BSD license.
 
 It was maintained by the
 <a href="https://www.cs.rit.edu/~ago/nac_lab.html">Neural Adaptive Computing (NAC) laboratory</a>. Note that the NAC Lab no longer maintains the Tensorflow-2 version of ngc-learn.
